@@ -67,6 +67,7 @@ final class TextInput {
   private final long bStart;
   private final long bStartMinus1;
 
+
   private final boolean bufferReadable;
 
   /**
